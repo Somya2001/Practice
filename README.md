@@ -1,2 +1,2 @@
 # devops-by-examples.github.io
-Learn Devops with examples !!
+Learn DevOps with examples by heart !!
